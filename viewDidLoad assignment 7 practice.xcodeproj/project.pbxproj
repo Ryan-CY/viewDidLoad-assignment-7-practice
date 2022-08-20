@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77D10F1C28B00C1F00A93281 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 77D10F1B28B00C1F00A93281 /* MyParticle.sks */; };
 		77F7B45D28AF7B7D0075D213 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F7B45C28AF7B7D0075D213 /* AppDelegate.swift */; };
 		77F7B45F28AF7B7D0075D213 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F7B45E28AF7B7D0075D213 /* SceneDelegate.swift */; };
 		77F7B46128AF7B7D0075D213 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F7B46028AF7B7D0075D213 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		77D10F1B28B00C1F00A93281 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
 		77F7B45928AF7B7D0075D213 /* viewDidLoad assignment 7 practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "viewDidLoad assignment 7 practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77F7B45C28AF7B7D0075D213 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77F7B45E28AF7B7D0075D213 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				77F7B45C28AF7B7D0075D213 /* AppDelegate.swift */,
 				77F7B45E28AF7B7D0075D213 /* SceneDelegate.swift */,
 				77F7B46028AF7B7D0075D213 /* ViewController.swift */,
+				77D10F1B28B00C1F00A93281 /* MyParticle.sks */,
 				77F7B46228AF7B7D0075D213 /* Main.storyboard */,
 				77F7B46528AF7B7E0075D213 /* Assets.xcassets */,
 				77F7B46728AF7B7E0075D213 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 				77F7B46928AF7B7E0075D213 /* LaunchScreen.storyboard in Resources */,
 				77F7B46628AF7B7E0075D213 /* Assets.xcassets in Resources */,
 				77F7B46428AF7B7D0075D213 /* Main.storyboard in Resources */,
+				77D10F1C28B00C1F00A93281 /* MyParticle.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
